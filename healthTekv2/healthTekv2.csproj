@@ -4,4 +4,227 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Views\TemplateFiles\activities.html" />
+    <Content Include="Views\TemplateFiles\add-appointment.html" />
+    <Content Include="Views\TemplateFiles\add-asset.html" />
+    <Content Include="Views\TemplateFiles\add-blog.html" />
+    <Content Include="Views\TemplateFiles\add-department.html" />
+    <Content Include="Views\TemplateFiles\add-doctor.html" />
+    <Content Include="Views\TemplateFiles\add-employee.html" />
+    <Content Include="Views\TemplateFiles\add-expense.html" />
+    <Content Include="Views\TemplateFiles\add-holiday.html" />
+    <Content Include="Views\TemplateFiles\add-leave-type.html" />
+    <Content Include="Views\TemplateFiles\add-leave.html" />
+    <Content Include="Views\TemplateFiles\add-patient.html" />
+    <Content Include="Views\TemplateFiles\add-provident-fund.html" />
+    <Content Include="Views\TemplateFiles\add-role.html" />
+    <Content Include="Views\TemplateFiles\add-salary.html" />
+    <Content Include="Views\TemplateFiles\add-schedule.html" />
+    <Content Include="Views\TemplateFiles\add-tax.html" />
+    <Content Include="Views\TemplateFiles\appointments.html" />
+    <Content Include="Views\TemplateFiles\assets.html" />
+    <Content Include="Views\TemplateFiles\attendance.html" />
+    <Content Include="Views\TemplateFiles\BehaviorTek.bacpac" />
+    <Content Include="Views\TemplateFiles\blank-page.html" />
+    <Content Include="Views\TemplateFiles\blog-details.html" />
+    <Content Include="Views\TemplateFiles\blog.html" />
+    <Content Include="Views\TemplateFiles\calendar.html" />
+    <Content Include="Views\TemplateFiles\change-password.html" />
+    <Content Include="Views\TemplateFiles\change-password2.html" />
+    <Content Include="Views\TemplateFiles\chat.html" />
+    <Content Include="Views\TemplateFiles\compose.html" />
+    <Content Include="Views\TemplateFiles\create-invoice.html" />
+    <Content Include="Views\TemplateFiles\departments.html" />
+    <Content Include="Views\TemplateFiles\doctors.html" />
+    <Content Include="Views\TemplateFiles\edit-appointment.html" />
+    <Content Include="Views\TemplateFiles\edit-asset.html" />
+    <Content Include="Views\TemplateFiles\edit-blog.html" />
+    <Content Include="Views\TemplateFiles\edit-department.html" />
+    <Content Include="Views\TemplateFiles\edit-doctor.html" />
+    <Content Include="Views\TemplateFiles\edit-employee.html" />
+    <Content Include="Views\TemplateFiles\edit-expense.html" />
+    <Content Include="Views\TemplateFiles\edit-holiday.html" />
+    <Content Include="Views\TemplateFiles\edit-invoice.html" />
+    <Content Include="Views\TemplateFiles\edit-leave-type.html" />
+    <Content Include="Views\TemplateFiles\edit-leave.html" />
+    <Content Include="Views\TemplateFiles\edit-patient.html" />
+    <Content Include="Views\TemplateFiles\edit-profile.html" />
+    <Content Include="Views\TemplateFiles\edit-provident-fund.html" />
+    <Content Include="Views\TemplateFiles\edit-role.html" />
+    <Content Include="Views\TemplateFiles\edit-salary.html" />
+    <Content Include="Views\TemplateFiles\edit-schedule.html" />
+    <Content Include="Views\TemplateFiles\edit-tax.html" />
+    <Content Include="Views\TemplateFiles\email-settings.html" />
+    <Content Include="Views\TemplateFiles\employees.html" />
+    <Content Include="Views\TemplateFiles\error-404.html" />
+    <Content Include="Views\TemplateFiles\error-500.html" />
+    <Content Include="Views\TemplateFiles\expense-reports.html" />
+    <Content Include="Views\TemplateFiles\expenses.html" />
+    <Content Include="Views\TemplateFiles\favicon.ico" />
+    <Content Include="Views\TemplateFiles\forgot-password.html" />
+    <Content Include="Views\TemplateFiles\form-basic-inputs.html" />
+    <Content Include="Views\TemplateFiles\form-horizontal.html" />
+    <Content Include="Views\TemplateFiles\form-input-groups.html" />
+    <Content Include="Views\TemplateFiles\form-vertical.html" />
+    <Content Include="Views\TemplateFiles\gallery.html" />
+    <Content Include="Views\TemplateFiles\holidays.html" />
+    <Content Include="Views\TemplateFiles\inbox.html" />
+    <Content Include="Views\TemplateFiles\incoming-call.html" />
+    <Content Include="Views\TemplateFiles\index-2.html" />
+    <Content Include="Views\TemplateFiles\index.html" />
+    <Content Include="Views\TemplateFiles\invoice-reports.html" />
+    <Content Include="Views\TemplateFiles\invoice-settings.html" />
+    <Content Include="Views\TemplateFiles\invoice-view.html" />
+    <Content Include="Views\TemplateFiles\invoices.html" />
+    <Content Include="Views\TemplateFiles\leave-type.html" />
+    <Content Include="Views\TemplateFiles\leaves.html" />
+    <Content Include="Views\TemplateFiles\localization.html" />
+    <Content Include="Views\TemplateFiles\lock-screen.html" />
+    <Content Include="Views\TemplateFiles\login.html" />
+    <Content Include="Views\TemplateFiles\mail-view.html" />
+    <Content Include="Views\TemplateFiles\notifications-settings.html" />
+    <Content Include="Views\TemplateFiles\patients.html" />
+    <Content Include="Views\TemplateFiles\payments.html" />
+    <Content Include="Views\TemplateFiles\profile.html" />
+    <Content Include="Views\TemplateFiles\provident-fund.html" />
+    <Content Include="Views\TemplateFiles\register.html" />
+    <Content Include="Views\TemplateFiles\roles-permissions.html" />
+    <Content Include="Views\TemplateFiles\salary-settings.html" />
+    <Content Include="Views\TemplateFiles\salary-view.html" />
+    <Content Include="Views\TemplateFiles\salary.html" />
+    <Content Include="Views\TemplateFiles\schedule.html" />
+    <Content Include="Views\TemplateFiles\settings.html" />
+    <Content Include="Views\TemplateFiles\tables-basic.html" />
+    <Content Include="Views\TemplateFiles\tables-datatables.html" />
+    <Content Include="Views\TemplateFiles\tabs.html" />
+    <Content Include="Views\TemplateFiles\taxes.html" />
+    <Content Include="Views\TemplateFiles\theme-settings.html" />
+    <Content Include="Views\TemplateFiles\typography.html" />
+    <Content Include="Views\TemplateFiles\uikit.html" />
+    <Content Include="Views\TemplateFiles\video-call.html" />
+    <Content Include="Views\TemplateFiles\voice-call.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\css\bootstrap-datetimepicker.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\bootstrap.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\dataTables.bootstrap4.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\font-awesome.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\fullcalendar.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\select2.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\style.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\css\tagsinput.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\app.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\bootstrap-datetimepicker.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\bootstrap.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\Chart.bundle.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\chart.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\dataTables.bootstrap4.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\fullcalendar.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\jquery-3.2.1.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\jquery-ui.min.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\jquery.dataTables.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\jquery.fullcalendar.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\jquery.slimscroll.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\moment.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\popper.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\qrcode.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\qrcode.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\select2.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\tagsinput.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
