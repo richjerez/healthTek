@@ -29,7 +29,7 @@ namespace healthTekv2.Controllers
         }
         public IActionResult Dashboard()
         {
-            return View();
+            return PartialView("/Views/Home/Dashboard.cshtml");
         }
         public IActionResult Sidebar()
         {
